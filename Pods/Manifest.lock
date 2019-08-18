@@ -1,0 +1,80 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.8.2)
+  - HandyJSON (5.0.0)
+  - HMSegmentedControl (1.5.5)
+  - IQKeyboardManagerSwift (6.4.0)
+  - Kingfisher (4.10.1)
+  - Masonry (1.1.0)
+  - MJRefresh (3.2.0)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+  - Then (2.5.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Alamofire
+  - HandyJSON
+  - HMSegmentedControl
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Masonry
+  - MJRefresh
+  - SDCycleScrollView
+  - SnapKit
+  - SwiftyJSON
+  - Then
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Alamofire
+    - HandyJSON
+    - HMSegmentedControl
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Masonry
+    - MJRefresh
+    - SDCycleScrollView
+    - SDWebImage
+    - SnapKit
+    - SwiftyJSON
+    - Then
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  HMSegmentedControl: f514c6dad47aa3065e0ed2e8046b73efc71221b9
+  IQKeyboardManagerSwift: ed9b04ee0e3067ffba543283462d619f944b05e5
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Then: 0157115e883545c77967b452fe74a1d25fb796e1
+
+PODFILE CHECKSUM: 041d33f1795e820b2bba717d74e89ce27b198011
+
+COCOAPODS: 1.5.3
